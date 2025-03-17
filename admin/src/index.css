@@ -17,5 +17,22 @@ a{
 hr{
   border: none;
   height: 1px;
-  background-color: azure;
+  background-color: rgb(126, 155, 155);
+}
+.x{
+  font-size: large;
+  margin-left: 55px;
+  font-weight: 800;
+}
+
+.app-content{
+  display:flex;
+}
+.flex-col{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.cursor{
+  cursor: pointer;
 }

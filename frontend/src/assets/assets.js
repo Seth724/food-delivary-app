@@ -208,7 +208,7 @@ export const food_list = [
         name: "Chicken Sandwich",
         image: food_13,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "",
         category: "Sandwich"
     },
     {
